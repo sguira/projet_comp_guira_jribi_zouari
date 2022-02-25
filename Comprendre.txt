@@ -1,0 +1,4 @@
+1) la classe mère se trouve dans le package analyse_lexicale
+2) changer le chemin du fichier dans le package analyseur_lexicale de la classe LireContenu
+3) mettre un exemple dans votre fichier externe
+4) Analyseur sementique a été réalisé dans la Classe Du lexeur Sementique et sert au contrôle de TYPE
